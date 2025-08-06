@@ -26,11 +26,6 @@ This repository contains educational materials for a **4-week Python course** de
   - Loops (for loops and while loops)
   - Loop control (break and continue)
   - Comprehensive practice exercises (15 problems across 3 difficulty levels)
-
-### Week 3: Intermediate Concepts 📈
-- **File**: `Week3_Python_Intermediate.ipynb`
-- **Topics**: Functions, Lists, Dictionaries, File Operations, Error Handling
-
 ## 🎯 Learning Objectives
 
 By completing these materials, students will be able to:
@@ -73,20 +68,3 @@ By completing these materials, students will be able to:
 - Jupyter Notebook or VS Code with Python extension
 - Enthusiasm to learn! 🎉
 
-## 🤝 Contributing
-
-Feel free to:
-- Suggest improvements to explanations
-- Add more practice exercises
-- Report any errors or typos
-- Share your learning experience
-
-## 📞 Contact
-
-If you have questions about these materials, feel free to reach out!
-
----
-
-**Happy Learning! 🚀✨**
-
-*"The journey of a thousand programs begins with a single print('Hello, World!')"*
